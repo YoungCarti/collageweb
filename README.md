@@ -1,4 +1,11 @@
-This code is Inspired from GreatStack, formerly known as EasyTutorial.
+This project is Inspired from GreatStack, formerly known as EasyTutorial on YouTube.
+
+Created date: 12 July 2022
+Latest Update: 12 July 2022
+Push on Github: 20 January 2024
+
+- This project is a simple web development for a University website -
+- Despite being simple with this project, I will learn more in future, thanks. - 
 
 Header section:
 ![image](https://github.com/user-attachments/assets/33ef7364-e377-4a5d-a350-dea29a5e1621)
